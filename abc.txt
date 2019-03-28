@@ -1,0 +1,12 @@
+Name: Sachin Tendulkar
+Team: MI
+Score: 100
+Name: Virat Kohli
+Team: RCB
+Score: 90
+Name: MS Dhoni
+Team: CSK
+Score: 95
+
+Output:
+list = [{'name':'Sachin Tendulkar', 'team':'MI', 'score': 100}, {'name':'Virat Kohli', 'team':'RCB', 'score': 90}]
